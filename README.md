@@ -1,4 +1,5 @@
-![](http://i.imgur.com/wYi2CkD.png)
+
+![](https://user-images.githubusercontent.com/29470379/27766351-5de7026e-5e8a-11e7-8d66-b51b72473bee.png)
 
 
 # Overview
