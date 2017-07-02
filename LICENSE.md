@@ -1,4 +1,6 @@
-Introduction
+![](https://user-images.githubusercontent.com/29470379/27766883-fddb99a8-5ea6-11e7-88a4-41c6074133cd.jpg)
+
+##Introduction
 Open source doesn't just mean access to the source code. The distribution terms of open-source software must comply with the following criteria:
 
 # 1. Free Redistribution
